@@ -1,0 +1,4 @@
+repository "Tester@cubelgamer@cloud"
+  path "/"
+    br "/main"
+    co "/main"
